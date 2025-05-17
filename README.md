@@ -14,3 +14,5 @@
 2. Create a new project (or use an existing one).
 3. Enable the **Generative Language API**.
 4. Create an API key under **APIs & Services > Credentials**.
+
+[Demo Link:](https://ganeshmangi.github.io/Gemini-2.0-Flash-Web-App/)
