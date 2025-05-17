@@ -1,17 +1,16 @@
 # Gemini-2.0-Flash-Web-App
-🔧 1. Set Up Your Gemini API Access
-A. Sign in to Google AI Studio
-Create or log in with a Google account.
 
-Go to API Access.
+## 🔧 1. Set Up Your Gemini API Access
 
-Generate an API Key.
+### A. Sign in to Google AI Studio
 
-B. Enable Gemini API in Google Cloud:
-Go to Google Cloud Console
+1. Create or log in with a Google account.
+2. Go to **API Access**.
+3. Generate an **API Key**.
 
-Create a new project (or use an existing one).
+### B. Enable Gemini API in Google Cloud
 
-Enable the "Generative Language API".
-
-Create an API key under APIs & Services > Credentials.
+1. Go to [Google Cloud Console](https://console.cloud.google.com/).
+2. Create a new project (or use an existing one).
+3. Enable the **Generative Language API**.
+4. Create an API key under **APIs & Services > Credentials**.
